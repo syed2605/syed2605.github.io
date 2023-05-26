@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e39c3929.css",
-    "main.js": "/static/js/main.2cb56ba5.js",
+    "main.js": "/static/js/main.ea56046d.js",
     "static/media/Syed Mohammad Gouse.pdf": "/static/media/Syed Mohammad Gouse.58cb39ee1811d8af476c.pdf",
     "static/media/weather.JPG": "/static/media/weather.9d5ac7892f5df86b4445.JPG",
     "static/media/nyka.JPG": "/static/media/nyka.d5ebcc8a0b5adab93b7a.JPG",
@@ -9,10 +9,10 @@
     "static/media/sudoku.JPG": "/static/media/sudoku.3000c7ac1f856e62fb72.JPG",
     "index.html": "/index.html",
     "main.e39c3929.css.map": "/static/css/main.e39c3929.css.map",
-    "main.2cb56ba5.js.map": "/static/js/main.2cb56ba5.js.map"
+    "main.ea56046d.js.map": "/static/js/main.ea56046d.js.map"
   },
   "entrypoints": [
     "static/css/main.e39c3929.css",
-    "static/js/main.2cb56ba5.js"
+    "static/js/main.ea56046d.js"
   ]
 }
